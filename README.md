@@ -3,6 +3,6 @@
 ### Education
 PhD. Computer Science, 2019
 
-### Work Exeperience
+### Work Experience
 Senior Research Scientist, Philips Research North America, Cambridge, MA
 
