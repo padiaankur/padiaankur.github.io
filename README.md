@@ -6,6 +6,9 @@ Previously, I worked as a senior research scientist at Philips Research North Am
 
 I earned my PhD in Computer Science from the University of Maryland, Baltimore County. My PhD dissertation was centered around developing ML and NLP algorithms to enhance the quality of knowledge graphs. I was under the guidance of Prof. [Tim Finin](https://redirect.cs.umbc.edu/~finin/) and Prof. [Francis Ferraro](https://redirect.cs.umbc.edu/~ferraro/).
 
+## Research Interest 
+Machine Learning, Natural Language Processing, Health Care, Knowledge Graph, Ontologies, Cybersecurity
+
 ## Recent News
 
 * (Jun 2023) Serving as an Area Chair for EMNLP 2023<br />
