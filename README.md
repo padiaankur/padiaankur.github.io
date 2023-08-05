@@ -3,7 +3,7 @@ I am a Director at Liberty Mutual Insurance focusing on Machine Learning (ML) an
 
 Previously, I was a senior research scientist at Philips Research North America, where I focused on designing and implementing NLP algorithms for problems related to clinical domain. 
 
-I received my PhD candidate in Computer Science from University of Maryland, Baltimore County. My PhD dissertation focused on developing ML and NLP algorithms to improve the quality of knowledge graphs. I was advised by Prof. [Tim Finin](https://redirect.cs.umbc.edu/~finin/) and Prof. [Francis Ferraro](https://redirect.cs.umbc.edu/~ferraro/).
+I received my PhD in Computer Science from University of Maryland, Baltimore County. My PhD dissertation focused on developing ML and NLP algorithms to improve the quality of knowledge graphs. I was advised by Prof. [Tim Finin](https://redirect.cs.umbc.edu/~finin/) and Prof. [Francis Ferraro](https://redirect.cs.umbc.edu/~ferraro/).
 
 ## Recent News
 
