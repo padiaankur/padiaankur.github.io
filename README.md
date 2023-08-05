@@ -5,19 +5,19 @@ Previously, I was a senior research scientist at Philips Research North America,
 
 I received my PhD candidate in Computer Science from University of Maryland, Baltimore County. My PhD dissertation focused on developing ML and NLP algorithms to improve the quality of knowledge graphs. I was advised by Prof. [Tim Finin](https://redirect.cs.umbc.edu/~finin/) and Prof. [Francis Ferraro](https://redirect.cs.umbc.edu/~ferraro/).
 
-## News
+## Recent News
 
-(Jun 2023) Serving as an Area Chair for EMNLP 2023<br />
-(Feb 2023) Joined as Director at Liberty Mutual Insurance, Boston, MA<br />
-(Mar 2022) Paper on Jointly Identifying and Fixing Inconsistent Readings from Information Extraction Systems accepted at ACL 2022<br />
-(Oct 2021) Promoted to Senior Research Scientist at Philips Research North America<br />
-(Jul 2020) Paper on Knowledge Graph Inference using Tensor Embedding accepted at KRR 2020<br />
-(Oct 2019) Joined as Research Scientist at Philips Research North America, Cambrdige, MA<br />
-(Oct 2019) Awarded PhD in Computer Science <br />
-(Nov 2019) Paper on Named entity recognition for nepali language accepted at IEEE CIC<br />
-(Jun 2019) Paper on Reflections on: Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization accepted at ISWC 2020<br />
-(May 2019) Won IBM Research AI Residency 2019 award<br />
-(Jan 2019) Paper on Knowledge graph fact prediction via knowledge-enriched tensor factorization accepted at Journal of Web Semantics, Elsevier<br />
+* (Jun 2023) Serving as an Area Chair for EMNLP 2023<br />
+* (Feb 2023) Joined as Director at Liberty Mutual Insurance, Boston, MA<br />
+* (Mar 2022) Paper on Jointly Identifying and Fixing Inconsistent Readings from Information Extraction Systems accepted at ACL 2022<br />
+* (Oct 2021) Promoted to Senior Research Scientist at Philips Research North America<br />
+* (Jul 2020) Paper on Knowledge Graph Inference using Tensor Embedding accepted at KRR 2020<br />
+* (Oct 2019) Joined as Research Scientist at Philips Research North America, Cambrdige, MA<br />
+* (Oct 2019) Awarded PhD in Computer Science <br />
+* (Nov 2019) Paper on Named entity recognition for nepali language accepted at IEEE CIC<br />
+* (Jun 2019) Paper on Reflections on: Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization accepted at ISWC 2020<br />
+* (May 2019) Won IBM Research AI Residency 2019 award<br />
+* (Jan 2019) Paper on Knowledge graph fact prediction via knowledge-enriched tensor factorization accepted at Journal of Web Semantics, Elsevier<br />
 
 
 ## Publications
