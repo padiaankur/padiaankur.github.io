@@ -1,9 +1,10 @@
 ## About me
-I am a Director at Liberty Mutual Insurance focusing on Machine Learning (ML) and Natural Language Processing (NLP), where my responsibilities involve contributing and guiding teams to develop state-of-the-art solutions applicable across for the enterprise. 
 
-Previously, I was a senior research scientist at Philips Research North America, where I focused on designing and implementing NLP algorithms for problems related to clinical domain. 
+I am a Director at Liberty Mutual Insurance, focusing on Machine Learning (ML) and Natural Language Processing (NLP). My responsibilities involve contributing to and guiding teams in the development of state-of-the-art solutions applicable across the enterprise.
 
-I received my PhD in Computer Science from University of Maryland, Baltimore County. My PhD dissertation focused on developing ML and NLP algorithms to improve the quality of knowledge graphs. I was advised by Prof. [Tim Finin](https://redirect.cs.umbc.edu/~finin/) and Prof. [Francis Ferraro](https://redirect.cs.umbc.edu/~ferraro/).
+Previously, I worked as a senior research scientist at Philips Research North America, where I concentrated on designing and implementing NLP algorithms for problems related to the clinical domain.
+
+I earned my PhD in Computer Science from the University of Maryland, Baltimore County. My PhD dissertation was centered around developing ML and NLP algorithms to enhance the quality of knowledge graphs. I was under the guidance of Prof. [Tim Finin](https://redirect.cs.umbc.edu/~finin/) and Prof. [Francis Ferraro](https://redirect.cs.umbc.edu/~ferraro/).
 
 ## Recent News
 
@@ -22,35 +23,35 @@ I received my PhD in Computer Science from University of Maryland, Baltimore Cou
 
 ## Publications
 
-* **Jointly Identifying and Fixing Inconsistent Readings from Information Extraction Systems.** <br />Padia, Ankur, Francis Ferraro, and Tim Finin.  <br /> arXiv preprint arXiv:1808.04816 (2018).<br />
+* **Jointly Identifying and Fixing Inconsistent Readings from Information Extraction Systems.** <br />Ankur Padia, Francis Ferraro, and Tim Finin.  <br /> ACL 2022<br />
 
-* **Knowledge graph inference using tensor embedding.** <br /> Padia, Ankur, Kostantinos Kalpakis, Francis Ferraro, and Tim Finin.  Knowledge Representation and Reasoning (KRR), 2020<br />
+* **Knowledge graph inference using tensor embedding.** <br /> Ankur Padia, Kostantinos Kalpakis, Francis Ferraro, and Tim Finin.  <br />Knowledge Representation and Reasoning (KRR), 2020<br />
 
 * **Knowledge graph fact prediction via knowledge-enriched tensor factorization.** <br />
-Padia, Ankur, Konstantinos Kalpakis, Francis Ferraro, and Tim Finin.  <br />
-Journal of Web Semantics 2019.<br />
+Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, and Tim Finin  <br />
+Journal of Web Semantics 2019<br />
 
-* **Named entity recognition for nepali language.** <br /> Singh, Oyesh Mann, Ankur Padia, and Anupam Joshi. <br /> IEEE CIC 2019<br />
+* **Named entity recognition for nepali language.** <br /> Singh Oyesh Mann, Ankur Padia, and Anupam Joshi. <br /> IEEE CIC 2019<br />
 
 * **SURFACE: semantically rich fact validation with explanations.** <br />
-Padia, Ankur, Francis Ferraro, and Tim Finin.  arXiv preprint arXiv:1810.13223 (2018).<br />
+Ankur Padia, Francis Ferraro, and Tim Finin. <br />  arXiv preprint arXiv:1810.13223 (2018)<br />
 
-* **Claim verification using semantic lexical resources.** <br />Padia, Ankur, Francis Ferraro, and Tim Finin.  <br />EMNLP 2018<br />
+* **Claim verification using semantic lexical resources.** <br />Ankur Padia, Francis Ferraro, and Tim Finin.  <br />EMNLP 2018<br />
 
-* **Automating class/instance representational choices in knowledge bases.** <br />Padia, Ankur, David Martin, and Peter F. Patel-Schneider. <br />EKAW 2018, 2018.<br />
+* **Automating class/instance representational choices in knowledge bases.** <br />Ankur Padia, David Martin, and Peter F. Patel-Schneider. <br />EKAW 2018<br />
 
 
-* **KGCleaner: Identifying and correcting errors produced by information extraction systems.** <br />Padia, Ankur, Frank Ferraro, and Tim Finin.  <br />UMBC Faculty Collection (2018).<br />
+* **KGCleaner: Identifying and correcting errors produced by information extraction systems.** <br />Ankur Padia, Frank Ferraro, and Tim Finin.  <br />UMBC Faculty Collection (2018)<br />
 
-* **Understanding text about malware.** <br />Padia, Ankur, Arpita Roy, Taneeya W. Satyapanich, Francis Ferraro, Shimei Pan, Youngja Park, Anupam Joshi, and Tim Finin.  <br />NAACL 2018.<br />
+* **Understanding text about malware.** <br />Ankur Padia, Arpita Roy, Taneeya W. Satyapanich, Francis Ferraro, Shimei Pan, Youngja Park, Anupam Joshi, and Tim Finin.  <br />NAACL 2018<br />
 
-* **Cleaning noisy knowledge graphs.** <br />Padia, Ankur. <br /> ISWC 2017.<br />
+* **Cleaning noisy knowledge graphs.** <br />Ankur Padia. <br /> ISWC 2017.<br />
 
-* **Inferring relations in knowledge graphs with tensor decompositions.** <br />Padia, Ankur, Konstantinos Kalpakis, and Tim Finin.  <br />IEEE BigData, 2016.<br />
+* **Inferring relations in knowledge graphs with tensor decompositions.** <br />Ankur Padia, Konstantinos Kalpakis, and Tim Finin.  <br />IEEE BigData, 2016.<br />
 
-* **UCO: A Unified Cybersecurity Ontology** <br />Syed, Zareen, Ankur Padia, Tim Finin, Lisa Mathews, and Anupam Joshi. AAAI 2016<br />
+* **UCO: A Unified Cybersecurity Ontology** <br />Zareen Syed, Ankur Padia, Tim Finin, Lisa Mathews, and Anupam Joshi. <br />AAAI 2016<br />
 
-* **Attribute-based fine grained access control for triple stores** <br />Padia, Ankur, Tim Finin, and Anupam Joshi.<br />  ISWC 2015.
+* **Attribute-based fine grained access control for triple stores** <br />Ankur Padia, Tim Finin, and Anupam Joshi.<br />  ISWC 2015.
 
 ## Academic service
 
