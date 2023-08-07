@@ -26,35 +26,44 @@ Machine Learning, Natural Language Processing, Health Care, Knowledge Graph, Ont
 
 ## Publications
 
-* **Jointly Identifying and Fixing Inconsistent Readings from Information Extraction Systems.** <br />Ankur Padia, Francis Ferraro, and Tim Finin.  <br /> ACL 2022<br />
+#### Knowledge Graph
 
-* **Knowledge graph inference using tensor embedding.** <br /> Ankur Padia, Kostantinos Kalpakis, Francis Ferraro, and Tim Finin.  <br />Knowledge Representation and Reasoning (KRR), 2020<br />
+* **Jointly Identifying and Fixing Inconsistent Readings from Information Extraction Systems.** <br />Ankur Padia, Francis Ferraro, and Tim Finin.  <br /> Deep Learning Inside Out <br />
+ACL 2022<br />[Paper](https://aclanthology.org/2022.deelio-1.5.pdf)
+
+* **Knowledge graph inference using tensor embedding.** <br /> Ankur Padia, Kostantinos Kalpakis, Francis Ferraro, and Tim Finin.  <br />Knowledge Representation and Reasoning (KRR), 2020<br />[Paper](https://ebiquity.umbc.edu/_file_directory_/papers/1032.pdf)
 
 * **Knowledge graph fact prediction via knowledge-enriched tensor factorization.** <br />
 Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, and Tim Finin  <br />
-Journal of Web Semantics 2019<br />
-
-* **Named entity recognition for nepali language.** <br /> Singh Oyesh Mann, Ankur Padia, and Anupam Joshi. <br /> IEEE CIC 2019<br />
+Journal of Web Semantics 2019<br />[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1570826819300046)
 
 * **SURFACE: semantically rich fact validation with explanations.** <br />
-Ankur Padia, Francis Ferraro, and Tim Finin. <br />  arXiv preprint arXiv:1810.13223 (2018)<br />
+Ankur Padia, Francis Ferraro, and Tim Finin. <br />  arXiv preprint arXiv:1810.13223 (2018)<br />[Paper](https://arxiv.org/abs/1810.13223)
 
-* **Claim verification using semantic lexical resources.** <br />Ankur Padia, Francis Ferraro, and Tim Finin.  <br />EMNLP 2018<br />
+* **Claim verification using semantic lexical resources.** <br />Ankur Padia, Francis Ferraro, and Tim Finin.  <br />Fact Extraction and VERification </br> EMNLP 2018<br />[Paper](https://aclanthology.org/W18-5527/)
 
-* **Automating class/instance representational choices in knowledge bases.** <br />Ankur Padia, David Martin, and Peter F. Patel-Schneider. <br />EKAW 2018<br />
+* **Automating class/instance representational choices in knowledge bases.** <br />Ankur Padia, David Martin, and Peter F. Patel-Schneider. <br />EKAW 2018<br />[Paper](https://link.springer.com/chapter/10.1007/978-3-030-03667-6_18)
+
+* **Cleaning noisy knowledge graphs.** <br />Ankur Padia. <br /> Doctoral Consortium <br /> ISWC 2017.<br />[Paper](https://ceur-ws.org/Vol-1962/paper_17.pdf)
+
+* **Inferring relations in knowledge graphs with tensor decompositions.** <br />Ankur Padia, Konstantinos Kalpakis, and Tim Finin.  <br />IEEE BigData, 2016.<br />[paper](https://ieeexplore.ieee.org/document/7841096)
 
 
-* **KGCleaner: Identifying and correcting errors produced by information extraction systems.** <br />Ankur Padia, Frank Ferraro, and Tim Finin.  <br />UMBC Faculty Collection (2018)<br />
+#### NER for low resource langauge 
 
-* **Understanding text about malware.** <br />Ankur Padia, Arpita Roy, Taneeya W. Satyapanich, Francis Ferraro, Shimei Pan, Youngja Park, Anupam Joshi, and Tim Finin.  <br />NAACL 2018<br />
+* **Named entity recognition for nepali language.** <br /> Singh Oyesh Mann, Ankur Padia, and Anupam Joshi. <br /> IEEE CIC 2019<br />[paper](https://arxiv.org/abs/1908.05828)
 
-* **Cleaning noisy knowledge graphs.** <br />Ankur Padia. <br /> ISWC 2017.<br />
+#### Cybersecurity
 
-* **Inferring relations in knowledge graphs with tensor decompositions.** <br />Ankur Padia, Konstantinos Kalpakis, and Tim Finin.  <br />IEEE BigData, 2016.<br />
 
-* **UCO: A Unified Cybersecurity Ontology** <br />Zareen Syed, Ankur Padia, Tim Finin, Lisa Mathews, and Anupam Joshi. <br />AAAI 2016<br />
+* **Understanding text about malware.** <br />Ankur Padia, Arpita Roy, Taneeya W. Satyapanich, Francis Ferraro, Shimei Pan, Youngja Park, Anupam Joshi, and Tim Finin.  <br />SemEval, NAACL 2018<br />[paper](https://aclanthology.org/S18-1142/)
 
-* **Attribute-based fine grained access control for triple stores** <br />Ankur Padia, Tim Finin, and Anupam Joshi.<br />  ISWC 2015.
+* **Attribute-based fine grained access control for triple stores** <br />Ankur Padia, Tim Finin, and Anupam Joshi.<br />  PrivOn ISWC 2015. <br />[paper](https://ebiquity.umbc.edu/_file_directory_/papers/764.pdf)
+
+#### Ontology
+
+* **UCO: A Unified Cybersecurity Ontology** <br />Zareen Syed, Ankur Padia, Tim Finin, Lisa Mathews, and Anupam Joshi. <br />AAAI Workshop: Artificial Intelligence for Cyber Security 2016 <br />
+AAAI 2016<br />[paper](https://mdsoar.org/bitstream/handle/11603/11804/781.pd.pdf?sequence=1&isAllowed=y)
 
 ## Academic service
 
