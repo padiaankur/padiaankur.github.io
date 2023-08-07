@@ -12,7 +12,7 @@ Machine Learning, Natural Language Processing, Health Care, Knowledge Graph, Ont
 ## Recent News
 
 * (Jun 2023) Serving as an Area Chair for EMNLP 2023<br />
-* (Feb 2023) Joined as Director at Liberty Mutual Insurance, Boston, MA<br />
+* (Feb 2023) Joined as a Director at Liberty Mutual Insurance, Boston, MA<br />
 * (Mar 2022) Paper on Jointly Identifying and Fixing Inconsistent Readings from Information Extraction Systems accepted at ACL 2022<br />
 * (Oct 2021) Promoted to Senior Research Scientist at Philips Research North America<br />
 * (Jul 2020) Paper on Knowledge Graph Inference using Tensor Embedding accepted at KRR 2020<br />
