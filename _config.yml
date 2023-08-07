@@ -3,3 +3,6 @@ title: Ankur Padia
 description: Director at Liberty Mutual Insurance
 show_downloads: false
 theme: jekyll-theme-minimal
+
+github:
+  is_project_page: false
