@@ -1,74 +1,116 @@
-## About me
+# The Minimal theme
 
-I am a Director at Liberty Mutual Insurance, focusing on Machine Learning (ML) and Natural Language Processing (NLP). My responsibilities involve contributing to and guiding teams in the development of state-of-the-art solutions applicable across the enterprise.
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
-Previously, I worked as a senior research scientist at Philips Research North America, where I concentrated on designing and implementing NLP algorithms for problems related to the clinical domain.
+*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
 
-I earned my PhD in Computer Science from the University of Maryland, Baltimore County. My PhD dissertation was centered around developing ML and NLP algorithms to enhance the quality of knowledge graphs. I was under the guidance of Prof. [Tim Finin](https://redirect.cs.umbc.edu/~finin/) and Prof. [Francis Ferraro](https://redirect.cs.umbc.edu/~ferraro/).
+![Thumbnail of Minimal](thumbnail.png)
 
-## Research Interest 
-Machine Learning, Natural Language Processing, Health Care, Knowledge Graph, Ontologies, Cybersecurity
+## Usage
 
-## Recent News
+To use the Minimal theme:
 
-* (Jun 2023) Serving as an Area Chair for EMNLP 2023<br />
-* (Feb 2023) Joined as Director at Liberty Mutual Insurance, Boston, MA<br />
-* (Mar 2022) Paper on Jointly Identifying and Fixing Inconsistent Readings from Information Extraction Systems accepted at ACL 2022<br />
-* (Oct 2021) Promoted to Senior Research Scientist at Philips Research North America<br />
-* (Jul 2020) Paper on Knowledge Graph Inference using Tensor Embedding accepted at KRR 2020<br />
-* (Oct 2019) Joined as Research Scientist at Philips Research North America, Cambrdige, MA<br />
-* (Oct 2019) Awarded PhD in Computer Science <br />
-* (Nov 2019) Paper on Named entity recognition for nepali language accepted at IEEE CIC<br />
-* (Jun 2019) Paper on Reflections on: Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization accepted at ISWC 2020<br />
-* (May 2019) Won IBM Research AI Residency 2019 award<br />
-* (Jan 2019) Paper on Knowledge graph fact prediction via knowledge-enriched tensor factorization accepted at Journal of Web Semantics, Elsevier<br />
+1. Add the following to your site's `_config.yml`:
 
+    ```yml
+    remote_theme: pages-themes/minimal@v0.2.0
+    plugins:
+    - jekyll-remote-theme # add this line to the plugins list if you already have one
+    ```
 
-## Publications
+2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
-* **Jointly Identifying and Fixing Inconsistent Readings from Information Extraction Systems.** <br />Ankur Padia, Francis Ferraro, and Tim Finin.  <br /> ACL 2022<br />
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
-* **Knowledge graph inference using tensor embedding.** <br /> Ankur Padia, Kostantinos Kalpakis, Francis Ferraro, and Tim Finin.  <br />Knowledge Representation and Reasoning (KRR), 2020<br />
+## Customizing
 
-* **Knowledge graph fact prediction via knowledge-enriched tensor factorization.** <br />
-Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, and Tim Finin  <br />
-Journal of Web Semantics 2019<br />
+### Configuration variables
 
-* **Named entity recognition for nepali language.** <br /> Singh Oyesh Mann, Ankur Padia, and Anupam Joshi. <br /> IEEE CIC 2019<br />
+Minimal will respect the following variables, if set in your site's `_config.yml`:
 
-* **SURFACE: semantically rich fact validation with explanations.** <br />
-Ankur Padia, Francis Ferraro, and Tim Finin. <br />  arXiv preprint arXiv:1810.13223 (2018)<br />
+```yml
+title: [The title of your site]
+description: [A short description of your site's purpose]
+```
 
-* **Claim verification using semantic lexical resources.** <br />Ankur Padia, Francis Ferraro, and Tim Finin.  <br />EMNLP 2018<br />
+Additionally, you may choose to set the following optional variables:
 
-* **Automating class/instance representational choices in knowledge bases.** <br />Ankur Padia, David Martin, and Peter F. Patel-Schneider. <br />EKAW 2018<br />
+```yml
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+```
 
+### Stylesheet
 
-* **KGCleaner: Identifying and correcting errors produced by information extraction systems.** <br />Ankur Padia, Frank Ferraro, and Tim Finin.  <br />UMBC Faculty Collection (2018)<br />
+If you'd like to add your own custom styles:
 
-* **Understanding text about malware.** <br />Ankur Padia, Arpita Roy, Taneeya W. Satyapanich, Francis Ferraro, Shimei Pan, Youngja Park, Anupam Joshi, and Tim Finin.  <br />NAACL 2018<br />
+1. Create a file called `/assets/css/style.scss` in your site
+2. Add the following content to the top of the file, exactly as shown:
+    ```scss
+    ---
+    ---
 
-* **Cleaning noisy knowledge graphs.** <br />Ankur Padia. <br /> ISWC 2017.<br />
+    @import "{{ site.theme }}";
+    ```
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
 
-* **Inferring relations in knowledge graphs with tensor decompositions.** <br />Ankur Padia, Konstantinos Kalpakis, and Tim Finin.  <br />IEEE BigData, 2016.<br />
+*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
 
-* **UCO: A Unified Cybersecurity Ontology** <br />Zareen Syed, Ankur Padia, Tim Finin, Lisa Mathews, and Anupam Joshi. <br />AAAI 2016<br />
+### Layouts
 
-* **Attribute-based fine grained access control for triple stores** <br />Ankur Padia, Tim Finin, and Anupam Joshi.<br />  ISWC 2015.
+If you'd like to change the theme's HTML layout:
 
-## Academic service
+1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/minimal/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html).
+2. For more extensive changes, [copy the original template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+3. Create a file called `/_layouts/default.html` in your site
+4. Paste the default layout content copied in the first step
+5. Customize the layout as you'd like
 
-Program Committee Member/Reviewer for 
+### Customizing Google Analytics code
 
-* EMNLP (2018, 2019, 2020, 2021, 2022)
-* EACL (2022)
-* ACL (2020, 2023)
-* AAAI (2020, 2021, 2022, 2023, 2024)
-* CoNLL (2020, 2021, 2022, 2023)
-* MDT-ASONAM (2019)
-* ISWC (2019, 2020, 2021, 2022, 2023)
-* Journal of Web Semantics (2020, 2022)
+Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
 
-Area chair:
+### Overriding GitHub-generated URLs
 
-* EMNLP (2023)
+Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
+
+1. Look at [the template source](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
+2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
+    ```yml
+    github:
+      zip_url: http://example.com/download.zip
+      another_url: another value
+    ```
+3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
+
+*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
+
+For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
+
+## Roadmap
+
+See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
+
+## Project philosophy
+
+The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+
+## Contributing
+
+Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+
+### Previewing the theme locally
+
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
+
+1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
+2. `cd` into the theme's directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+
+### Running tests
+
+The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.

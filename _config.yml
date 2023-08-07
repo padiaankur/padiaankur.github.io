@@ -1,5 +1,7 @@
 title: Ankur Padia
-#logo: /assets/img/headshot_circle.png
-description: Director at Liberty Mutual Insurance
-show_downloads: false
+#logo: /assets/img/logo3.png
+description: Director, Data Science and Machine Learning, at Liberty Mutual Insurance 
+show_downloads: true
+#google_analytics:
 theme: jekyll-theme-minimal
+#circular_avatar:  "true"
