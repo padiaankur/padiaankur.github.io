@@ -7,3 +7,4 @@ theme: jekyll-theme-minimal
 #circular_avatar:  "true"
 github:
   is_project_page: false
+  is_user_page: false
