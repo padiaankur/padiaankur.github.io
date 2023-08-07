@@ -5,3 +5,5 @@ show_downloads: true
 #google_analytics:
 theme: jekyll-theme-minimal
 #circular_avatar:  "true"
+github:
+  is_project_page: false
