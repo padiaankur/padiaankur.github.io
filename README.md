@@ -40,7 +40,7 @@ Journal of Web Semantics 2019<br />[Paper](https://www.sciencedirect.com/science
 * **SURFACE: semantically rich fact validation with explanations.** <br />
 Ankur Padia, Francis Ferraro, and Tim Finin. <br />  arXiv preprint arXiv:1810.13223 (2018)<br />[Paper](https://arxiv.org/abs/1810.13223)
 
-* **Claim verification using semantic lexical resources.** <br />Ankur Padia, Francis Ferraro, and Tim Finin.  <br />Fact Extraction and VERification </br> EMNLP 2018<br />[Paper](https://aclanthology.org/W18-5527/)
+* **Claim verification using semantic lexical resources.** <br />Ankur Padia, Francis Ferraro, and Tim Finin.  <br />Fact Extraction and VERification <br /> EMNLP 2018<br />[Paper](https://aclanthology.org/W18-5527/)
 
 * **Automating class/instance representational choices in knowledge bases.** <br />Ankur Padia, David Martin, and Peter F. Patel-Schneider. <br />EKAW 2018<br />[Paper](https://link.springer.com/chapter/10.1007/978-3-030-03667-6_18)
 
