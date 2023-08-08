@@ -3,7 +3,7 @@ layout: default
 ---
 ## About me
 
-I am a Director at Liberty Mutual Insurance, focusing on Machine Learning (ML) and Natural Language Processing (NLP). My responsibilities involve contributing to and guiding teams in the development of state-of-the-art solutions applicable across the enterprise.
+I am a Director at Liberty Mutual Insurance, focusing on Machine Learning (ML) and Natural Language Processing (NLP). My responsibilities involve contributing to and guiding teams in the development of state-of-the-art solutions.
 
 Previously, I worked as a senior research scientist at Philips Research North America, where I concentrated on designing and implementing NLP algorithms for problems related to the clinical domain.
 
