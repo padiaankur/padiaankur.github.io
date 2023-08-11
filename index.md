@@ -18,6 +18,7 @@ Machine Learning, Natural Language Processing, Health Care, Knowledge Graph, Ont
 * (Feb 2023) Joined as a Director at Liberty Mutual Insurance, Boston, MA<br />
 * (Mar 2022) Paper on Jointly Identifying and Fixing Inconsistent Readings from Information Extraction Systems accepted at ACL 2022<br />
 * (Oct 2021) Promoted to Senior Research Scientist at Philips Research North America<br />
+* (Jun 2020) Ranked 2nd in Annual Philips Clinical Trial Eligibiilty Criteria Competition<br />
 * (Jul 2020) Paper on Knowledge Graph Inference using Tensor Embedding accepted at KRR 2020<br />
 * (Oct 2019) Joined as Research Scientist at Philips Research North America, Cambrdige, MA<br />
 * (Oct 2019) Awarded PhD in Computer Science <br />
