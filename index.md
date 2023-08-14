@@ -73,7 +73,7 @@ AAAI 2016<br />[paper](https://mdsoar.org/bitstream/handle/11603/11804/781.pd.pd
 
 Program Committee Member/Reviewer for 
 
-* EMNLP (2018, 2019, 2020, 2021, 2022)
+* EMNLP (2018, 2019, 2020, 2021, 2022, 2023)
 * EACL (2022)
 * ACL (2020, 2023)
 * AAAI (2020, 2021, 2022, 2023, 2024)
